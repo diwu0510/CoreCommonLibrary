@@ -1,0 +1,9 @@
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\bin\Debug\netcoreapp2.2\HZC.Database.Abstract.deps.json
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\bin\Debug\netcoreapp2.2\HZC.Database.Abstract.dll
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\bin\Debug\netcoreapp2.2\HZC.Database.Abstract.pdb
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.csprojAssemblyReference.cache
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.csproj.CoreCompileInputs.cache
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.AssemblyInfoInputs.cache
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.AssemblyInfo.cs
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.dll
+E:\Works\通用项目\通用类库\HZC.Database.Abstract\obj\Debug\netcoreapp2.2\HZC.Database.Abstract.pdb

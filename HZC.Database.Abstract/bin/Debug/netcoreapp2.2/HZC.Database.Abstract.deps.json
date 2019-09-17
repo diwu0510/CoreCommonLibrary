@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HZC.Database.Abstract/1.0.0": {
+        "runtime": {
+          "HZC.Database.Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HZC.Database.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
