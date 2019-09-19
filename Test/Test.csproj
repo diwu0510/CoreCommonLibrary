@@ -11,7 +11,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HZC.Framework\HZC.Framework.csproj" />
-    <ProjectReference Include="..\HZC.MyDapper\HZC.MyDapper.csproj" />
     <ProjectReference Include="..\HZC.Utils\HZC.Utils.csproj" />
   </ItemGroup>
 

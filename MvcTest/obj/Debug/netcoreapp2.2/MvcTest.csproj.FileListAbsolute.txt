@@ -75,5 +75,3 @@ D:\工作\通用\通用类库\MvcTest\obj\Debug\netcoreapp2.2\MvcTest.Views.pdb
 D:\工作\通用\通用类库\MvcTest\obj\Debug\netcoreapp2.2\MvcTest.csproj.CopyComplete
 D:\工作\通用\通用类库\MvcTest\obj\Debug\netcoreapp2.2\MvcTest.dll
 D:\工作\通用\通用类库\MvcTest\obj\Debug\netcoreapp2.2\MvcTest.pdb
-E:\Works\通用项目\通用类库\MvcTest\bin\Debug\netcoreapp2.2\HZC.MyDapper.dll
-E:\Works\通用项目\通用类库\MvcTest\bin\Debug\netcoreapp2.2\HZC.MyDapper.pdb

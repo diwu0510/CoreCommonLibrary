@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using HZC.Framework.Authorizations;
-using HZC.MyDapper;
 using HZC.Utils.UEditor;
 using HZC.Utils.UpYun;
 using HZC.Utils.YunPian;
@@ -35,12 +34,6 @@ namespace MvcTest
 
             // 添加又拍云图片服务
             services.AddUpYunService(Configuration);
-
-            services.AddMyDapper<MyDapperContext, int>(option =>
-                {
-                    option.ConnectionString = Configuration.GetConnectionString("DefaultConnectionString");
-                    option.GetAuditorIdDelegate = () =>  1;
-                });
 
             services.Configure<UEditorConfig>(Configuration.GetSection("UEditor"));
 

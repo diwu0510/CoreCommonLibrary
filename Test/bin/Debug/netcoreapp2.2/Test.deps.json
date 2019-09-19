@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v2.2": {
       "Test/1.0.0": {
         "dependencies": {
+          "Dapper": "2.0.4",
           "HZC.Framework": "1.0.0",
-          "HZC.MyDapper": "1.0.0",
           "HZC.Utils": "1.0.0"
         },
         "runtime": {
@@ -1038,16 +1038,6 @@
           "HZC.Framework.dll": {}
         }
       },
-      "HZC.MyDapper/1.0.0": {
-        "dependencies": {
-          "Dapper": "2.0.4",
-          "HZC.Framework": "1.0.0",
-          "System.Data.SqlClient": "4.5.0.0"
-        },
-        "runtime": {
-          "HZC.MyDapper.dll": {}
-        }
-      },
       "HZC.Utils/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http": "2.2.2",
@@ -1064,14 +1054,6 @@
         },
         "runtime": {
           "HZC.Utils.dll": {}
-        }
-      },
-      "System.Data.SqlClient.Reference/4.5.0.0": {
-        "runtime": {
-          "System.Data.SqlClient.dll": {
-            "assemblyVersion": "4.5.0.0",
-            "fileVersion": "4.6.27110.4"
-          }
         }
       }
     }
@@ -1801,18 +1783,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "HZC.MyDapper/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "HZC.Utils/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Data.SqlClient.Reference/4.5.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

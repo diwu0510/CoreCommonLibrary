@@ -26,7 +26,6 @@
         "dependencies": {
           "Dapper": "2.0.4",
           "HZC.Framework": "1.0.0",
-          "HZC.MyDapper": "1.0.0",
           "HZC.Utils": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -557,18 +556,6 @@
         },
         "compile": {
           "HZC.Framework.dll": {}
-        }
-      },
-      "HZC.MyDapper/1.0.0": {
-        "dependencies": {
-          "Dapper": "2.0.4",
-          "HZC.Framework": "1.0.0"
-        },
-        "runtime": {
-          "HZC.MyDapper.dll": {}
-        },
-        "compile": {
-          "HZC.MyDapper.dll": {}
         }
       },
       "HZC.Utils/1.0.0": {
@@ -3980,11 +3967,6 @@
       "hashPath": "yunpian.netcore.1.0.2.nupkg.sha512"
     },
     "HZC.Framework/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "HZC.MyDapper/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

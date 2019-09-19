@@ -20,10 +20,8 @@ E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\Test.runtimeconf
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\Test.dll
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\Test.pdb
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.Framework.dll
-E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.MyDapper.dll
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.Utils.dll
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.Framework.pdb
-E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.MyDapper.pdb
 E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\HZC.Utils.pdb
 E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
 E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
@@ -32,5 +30,3 @@ E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInf
 E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
 E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.dll
 E:\Works\通用项目\通用类库\Test\obj\Debug\netcoreapp2.2\Test.pdb
-E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
-E:\Works\通用项目\通用类库\Test\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
